@@ -10,7 +10,7 @@ The company established a partnership with OpenWeatherMaps API to fetch forecast
 
 [API - Documentation](https://openweathermap.org/api)
 
-API-key: 44954e3bc8a0b87f7f18cae62d7fc45d
+API-key: 44954e3bc8a0b87f7f18cae62d7fc45d (If it doesn't work just create an account and get a new one. It's free)
 
 [UI Suggestion](https://www.figma.com/file/Xmwail0aZjRbZfr5XoFMki/Desafio-Front-End?node-id=0%3A1)
 
