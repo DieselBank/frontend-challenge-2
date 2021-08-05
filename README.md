@@ -27,7 +27,9 @@ API-key: Just create an account and get a new one.
 
 (Examples: City not found, No internet connection and other errors that you consider necessary)
 
-## Obs:
+## Objectives:
+- Solve all the user stories would be nice, but keep your focus on the objectives below instead, they're more important to show your development skills.
+
 - The implementation of a global state manager, with unit tests, is mandatory, since this is a good practice that helps the code to scale well and be trustworthier.
 
 - You can use React (Web), React Native or Flutter for this challenge. Feel free to modularize your code, choose any design pattern you prefer and use third-party dependencies/UI components if needed.
