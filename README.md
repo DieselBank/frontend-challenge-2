@@ -6,7 +6,7 @@ As a member of Sweater Weather's Software Engineering team, you were assigned th
 
 The product team has specified all the user stories needed to be implemented and given you a suggestion for the UI design of the screens. Feel free to explore and create :)
 
-OpenWeatherMaps's API is free and good to fetch forecast data. So can make use of this API ore any other one you like. Here follows the documentation and the API key needed to start fetching OpenWeatherMaps's API
+OpenWeatherMaps's API is free and good to fetch forecast data. So can make use of this API or any other one you like. Here follows the documentation needed to start fetching OpenWeatherMaps's API:
 
 [API - Documentation](https://openweathermap.org/api)
 
@@ -14,7 +14,7 @@ API-key: Just create an account and get a new one.
 
 [UI Suggestion](https://www.figma.com/file/Xmwail0aZjRbZfr5XoFMki/Desafio-Front-End?node-id=0%3A1)
 
-## Required User Stories
+## User Stories
 - I, as an user, need to check the forecast (Current temperature, Min temperature, Max temperature and weather condition) of a specific city by name, so that I could decide to go on a trip, today or on any other day.
 
 - I, as an user, should be able to check the forecast for the next 3 days, so that I could schedule my trip without weather surprises.
