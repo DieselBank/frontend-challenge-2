@@ -6,11 +6,11 @@ As a member of Sweater Weather's Software Engineering team, you were assigned th
 
 The product team has specified all the user stories needed to be implemented and given you a suggestion for the UI design of the screens. Feel free to explore and create :)
 
-The company established a partnership with OpenWeatherMaps API to fetch forecast data. So you must make use of this API. Here follows the documentation and the API key needed to start fetching.
+OpenWeatherMaps's API is free and good to fetch forecast data. So can make use of this API ore any other one you like. Here follows the documentation and the API key needed to start fetching OpenWeatherMaps's API
 
 [API - Documentation](https://openweathermap.org/api)
 
-API-key: 44954e3bc8a0b87f7f18cae62d7fc45d (If it doesn't work just create an account and get a new one. It's free)
+API-key: Just create an account and get a new one.
 
 [UI Suggestion](https://www.figma.com/file/Xmwail0aZjRbZfr5XoFMki/Desafio-Front-End?node-id=0%3A1)
 
