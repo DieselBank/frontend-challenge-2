@@ -6,7 +6,7 @@ As a member of Sweater Weather's Software Engineering team, you were assigned th
 
 The product team has specified all the user stories needed to be implemented and given you a suggestion for the UI design of the screens. Feel free to explore and create :)
 
-OpenWeatherMaps's API is free and good to fetch forecast data. So can make use of this API or any other one you like. Here follows the documentation needed to start fetching OpenWeatherMaps's API:
+OpenWeatherMaps's API is free and good to fetch forecast data. So you can make use of this API or any other one you like. Here follows the documentation needed to start fetching OpenWeatherMaps's API:
 
 [API - Documentation](https://openweathermap.org/api)
 
@@ -28,7 +28,7 @@ API-key: Just create an account and get a new one.
 (Examples: City not found, No internet connection and other errors that you consider necessary)
 
 ## Objectives:
-- Solve all the user stories would be nice, but keep your focus on the objectives below instead, they're more important to show your development skills.
+- Implementing all the user stories would be nice, but keep your focus on the objectives below instead, they're more important to show your development skills.
 
 - The implementation of a global state manager, with unit tests, is mandatory, since this is a good practice that helps the code to scale well and be trustworthier.
 
