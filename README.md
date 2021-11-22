@@ -19,10 +19,6 @@ API-key: Just create an account and get a new one.
 
 - I, as an user, should be able to check the forecast for the next 3 days, so that I could schedule my trip without weather surprises.
 
-- I, as an user, should be able to see a list of my recent forecast searches by city with their current temperatures, even if the app is closed and reopened, so that I could save some time.
-
-- I, as an user, should be able to delete entries from the recent searches list, so that I could remove unnecessary information from the screen.
-
 - I, as an user, should be informed through error modals or toasts about any problems with my attempt to search for a forecast, so that I can try to fix it before trying again. 
 
 (Examples: City not found, No internet connection and other errors that you consider necessary)
@@ -30,7 +26,7 @@ API-key: Just create an account and get a new one.
 ## Objectives:
 - Implementing all the user stories would be nice, but keep your focus on the objectives below instead, they're more important to show your development skills.
 
-- The implementation of a global state manager, with unit tests, is mandatory, since this is a good practice that helps the code to scale well and be trustworthier.
+- The implementation of a global state manager (Redux, context, Bloc, etc.) is mandatory since this is a good practice that helps the code to scale well and be trustworthier.
 
 - You can use React (Web), React Native or Flutter for this challenge. Feel free to modularize your code, choose any design pattern you prefer and use third-party dependencies/UI components if needed.
 
