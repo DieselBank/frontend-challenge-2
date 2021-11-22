@@ -17,8 +17,6 @@ API-key: Just create an account and get a new one.
 ## User Stories
 - I, as an user, need to check the forecast (Current temperature, Min temperature, Max temperature and weather condition) of a specific city by name, so that I could decide to go on a trip, today or on any other day.
 
-- I, as an user, should be able to check the forecast for the next 3 days, so that I could schedule my trip without weather surprises.
-
 - I, as an user, should be informed through error modals or toasts about any problems with my attempt to search for a forecast, so that I can try to fix it before trying again. 
 
 (Examples: City not found, No internet connection and other errors that you consider necessary)
